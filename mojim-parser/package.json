@@ -1,0 +1,15 @@
+{
+  "name": "mojim-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "`npm bin`/casperjs --verbose test.js"
+  },
+  "author": "Edward FUNG <edwardfung123@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}

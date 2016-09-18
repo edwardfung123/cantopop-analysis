@@ -1,0 +1,22 @@
+{
+  "name": "mojim-crawler",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Edward FUNG <edwardfung123@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3"
+  },
+  "private": true
+}
